@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MTCg</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">TV Shows</string>
+
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="rating">Rating</string>
+    <string name="year">Year</string>
+    <string name="movie_poster">Movie Poster</string>
+
+    <string name="jan">January </string>
+    <string name="feb">February </string>
+    <string name="mar">March </string>
+    <string name="apr">April </string>
+    <string name="may">May </string>
+    <string name="jun">June </string>
+    <string name="jul">July </string>
+    <string name="aug">August </string>
+    <string name="sep">September </string>
+    <string name="oct">October </string>
+    <string name="nov">November </string>
+    <string name="des">December </string>
+
+    <string name="favMovie">Favorite Movie</string>
+    <string name="favTvshow">Favorite TV Show</string>
+
+    <string name="onExit">Press the back button again to exit</string>
+    <string name="noFavorite">You haven\'t got any favorite, let\'s add one!</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="genre">Genre</string>
+    <string name="cast">Cast</string>
+    <string name="series_poster">Series Poster</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="change_language">Change Language</string>
+
+    <string name="daily_reminder_message">Good morning! Have you seen today\'s hottest Movie or TV Show? Let\'s check it out on the app! </string>
+    <string name="release_today_message">Good morning! This is the list of movies that are released today. </string>
+    <string name="key_daily">daily</string>
+    <string name="key_release" translatable="false">release</string>
+    <string name="key_language" translatable="false">language</string>
+
+    <string name="daily_checked_toast">Daily reminder is set.</string>
+    <string name="daily_unchecked_toast">Daily reminder is cancelled.</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MTCg</string>
+    <string name="title_movies">Film</string>
+    <string name="title_series">TV Show</string>
+
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="rating">Rating</string>
+    <string name="year">Tahun</string>
+    <string name="movie_poster">Poster Film</string>
+
+    <string name="jan">Januari </string>
+    <string name="feb">Februari </string>
+    <string name="mar">Maret </string>
+    <string name="apr">April </string>
+    <string name="may">Mei </string>
+    <string name="jun">Juni </string>
+    <string name="jul">Juli </string>
+    <string name="aug">Agustus </string>
+    <string name="sep">September </string>
+    <string name="oct">Oktober </string>
+    <string name="nov">November </string>
+    <string name="des">Desember </string>
+
+    <string name="favMovie">Film Favorit</string>
+    <string name="favTvshow">TV Show Favorit</string>
+
+    <string name="onExit">Tekan tombol kembali untuk keluar</string>
+    <string name="noFavorite">Kamu tidak memiliki favorit, tambahkan ya agar fitur ini berguna.</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="genre">Genre</string>
+    <string name="cast">Cast</string>
+    <string name="series_poster">Series Poster</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="key_daily">daily</string>
+
+    <string name="daily_reminder_message">Selamat Pagi! Sudahkah kamu melihat Film atau Serial TV yang sedang trend sekarang ? Cek di aplikasinya.</string>
+    <string name="release_today_message">Selamat Pagi! Ini adalah daftar Film yang tayang hari ini. </string>
+
+    <string name="daily_checked_toast">Daily reminder dinyalakan.</string>
+    <string name="daily_unchecked_toast">Daily reminder dibatalkan.</string>
+
+</resources>
