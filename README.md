@@ -7,10 +7,10 @@ MTCg is an app that provides movies & TV shows catalogue.
 * List of upcoming movies
 * List of now playing movies
 * List of popular movies
-* List of popular TV show
-* List of high-rated TV show
-* List of Latest TV Show
-* Search movie or TV Show
+* List of popular TV shows
+* List of high-rated TV shows
+* List of Latest TV Shows
+* Search movie or TV Shows
 * In app YouTube player
 * Daily reminder
 * Movie release today reminder
