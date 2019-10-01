@@ -22,7 +22,7 @@ import cz.msebera.android.httpclient.Header;
 public class MovieDetailViewModel extends ViewModel {
 
 
-    private static final String API_KEY = "d2dfaf3ce527b24d57d284fe5bf270f5";
+    private static final String API_KEY = "Insert yout TMDB API key here!";
     private MutableLiveData<ArrayList<Video>> listVideos = new MutableLiveData<>();
     private MutableLiveData<ArrayList<Genre>> listGenres = new MutableLiveData<>();
     private MutableLiveData<ArrayList<Cast>> listCasts = new MutableLiveData<>();
