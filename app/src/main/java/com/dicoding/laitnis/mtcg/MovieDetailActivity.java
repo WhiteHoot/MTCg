@@ -294,7 +294,7 @@ public class MovieDetailActivity extends AppCompatActivity implements View.OnCli
 
         YouTubePlayerFragment youtubeFragment = (YouTubePlayerFragment)
                 getFragmentManager().findFragmentById(R.id.youtubeFragment1);
-        youtubeFragment.initialize("AIzaSyBixXzm08bJ8zRwiNvUwGse86pDArZagw4",
+        youtubeFragment.initialize("Insert your Google API key here!",
                 new YouTubePlayer.OnInitializedListener() {
                     @Override
                     public void onInitializationSuccess(YouTubePlayer.Provider provider,
