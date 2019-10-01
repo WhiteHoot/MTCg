@@ -24,7 +24,7 @@ import java.util.Locale;
 import cz.msebera.android.httpclient.Header;
 
 public class MainViewModel extends ViewModel {
-    private static final String API_KEY = "d2dfaf3ce527b24d57d284fe5bf270f5";
+    private static final String API_KEY = "Insert yout TMDB API key here!";
     private MutableLiveData<ArrayList<Movie>> listMoviesUpcoming = new MutableLiveData<>();
     private MutableLiveData<ArrayList<MovieInTheater>> listMoviesInTheater = new MutableLiveData<>();
     private MutableLiveData<ArrayList<MoviePopular>> listMoviesPopular = new MutableLiveData<>();
