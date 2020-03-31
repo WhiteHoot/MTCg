@@ -1,6 +1,6 @@
 # MTCg
 
-MTCg is an app that provides movies & TV shows catalogue.
+MTCg is an app that provides movies & TV shows catalogue. This app is developed using the Model View Viewmodel architecture (MVVM).
 
 ## Features
 
