@@ -27,7 +27,3 @@ MTCg is an app that provides movies & TV shows catalogue. This app is using the 
 
 Download the released app here : [MTCg](https://drive.google.com/open?id=1c4cPMCOsrPgpddWgrekvuOzz0JwGeUmK)
 
-
-## Author
-
-* Arby Laitnis Mahardika
